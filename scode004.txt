@@ -1,0 +1,11 @@
+#!/bin/bash
+
+
+echo " this is my dev branch modeifies by master "
+
+echo " this is my dev branch modeified by developer"
+
+
+echo " code has been changed "
+
+echo " code has been changed 2"
